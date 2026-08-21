@@ -60,6 +60,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Color Hunt](https://colorhunt.co/)** — A free and open platform for color inspiration with thousands of trendy hand-picked palettes.
 * **[Lucide](https://lucide.dev/)** — A beautiful, consistent, and open-source icon toolkit.
 * **[SVG Repo](https://www.svgrepo.com/)** — Download over 500,000+ free SVG vectors and icons for commercial use.
+* **[Thridy](https://thridy.com/)** — A free **3D icon library** with 13,000+ icons in one consistent style. Downloads are high-resolution transparent PNGs, free for commercial use with no attribution or signup.
 
 ---
 
