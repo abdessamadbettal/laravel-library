@@ -79,6 +79,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[ChatGPT](https://chat.openai.com/)** — OpenAI's conversational AI model for coding, writing, and brainstorming.
 * **[Claude](https://claude.ai/)** — Anthropic's AI assistant, excellent for analyzing large documents and writing natural text.
+* **[Orkas](https://orkas.ai/?source=gh_abdes)** — Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 * **[Perplexity](https://www.perplexity.ai/)** — An AI search engine that provides cited answers and real-time web research.
 * **[v0.dev](https://v0.dev/)** — Vercel's generative UI system that creates React components from text prompts.
 
