@@ -36,6 +36,8 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Transform.tools](https://transform.tools/)** — Convert between dozens of programming formats (JSON to TS, SVG to JSX, etc.).
 * **[Can I Use](https://caniuse.com/)** — Up-to-date browser support tables for front-end web technologies.
 * **[Responsively App](https://responsively.app/)** — A must-have dev tool for responsive web development across multiple device sizes simultaneously.
+* **[NextReset](https://nextreset.ai/)** — A free independent Codex reset-history tracker with official incident sources and a browser-local personal timer.
+
 
 ---
 
