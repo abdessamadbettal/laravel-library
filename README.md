@@ -120,6 +120,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 
 * **[worldclock.tools](https://worldclock.tools/)** — Live local time for **34,000+ cities**, a cross-timezone meeting planner, and dozens of converters and timers built on the IANA time zone database.
 * **[duration.tools](https://duration.tools/)** — A set of **time and duration calculators**: work shifts, timesheets, business days, SMPTE timecode, cron schedules, running pace, and sleep cycles.
+* **[NextReset](https://nextreset.ai/)** — A free, no-sign-up **Codex reset reference and browser-local countdown** with source-linked public reset history and official AI service incident links.
 * **[time.is](https://time.is/)** — Exact current time anywhere, with time-zone detail for any city.
 * **[World Time Buddy](https://www.worldtimebuddy.com/)** — Compare time zones side by side and find meeting times across cities.
 
