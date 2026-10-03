@@ -60,6 +60,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Color Hunt](https://colorhunt.co/)** — A free and open platform for color inspiration with thousands of trendy hand-picked palettes.
 * **[Lucide](https://lucide.dev/)** — A beautiful, consistent, and open-source icon toolkit.
 * **[SVG Repo](https://www.svgrepo.com/)** — Download over 500,000+ free SVG vectors and icons for commercial use.
+* **[Tesla Wrap 3D Preview & PNG Fixer](https://teslawrapgenerator.com/tesla-wrap-3d-preview)** — A free **Tesla wrap 3D preview** and PNG fixer. Drop any Paint Shop wrap to see it on a 3D Tesla and fix its size, file weight and file name, with no signup.
 
 ---
 
