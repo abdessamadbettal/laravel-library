@@ -143,6 +143,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[PageSpeed Insights](https://pagespeed.web.dev/)** — Analyze your website's performance and Core Web Vitals on mobile and desktop.
 * **[Meta Tags](https://metatags.io/)** — Preview, edit, and generate your website's social media meta tags (Open Graph).
 * **[Ahrefs Free SEO Tools](https://ahrefs.com/free-seo-tools)** — A suite of free tools for keyword research, backlink checking, and website authority.
+* **[KupitSledovatelov.sk Engagement Rate Calculator](https://kupitsledovatelov.sk/tools/engagement-rate)** — A free Slovak-language calculator for creators: manually enter likes, comments, and followers, reach, or views to calculate a defined engagement percentage. Runs in the browser without registration or profile lookup; explains the formula and comparison limits.
 
 ---
 
