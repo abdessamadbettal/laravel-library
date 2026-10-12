@@ -17,6 +17,7 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * 🧪 Data & Testing
 * 🕐 Time & Date
 * 📄 Files & PDF
+* Audio Tools
 * 🔍 SEO & Analytics
 * 🕌 Islamic Tools
 * 📚 Learning & Education
@@ -132,6 +133,13 @@ Discover hand-picked tools that save time, improve workflows, and help you build
 * **[Squoosh](https://squoosh.app/)** — Compress and convert images with a live before/after comparison, from the Google Chrome team.
 * **[PDF24 Tools](https://tools.pdf24.org/)** — A free suite for merging, splitting, converting, and compressing PDFs.
 * **[Stirling PDF](https://stirlingpdf.io/)** — An open-source, self-hostable toolkit covering 50+ PDF operations.
+
+---
+
+## Audio Tools
+*Browser-local utilities for short speech recordings.*
+
+* **[QuietTake Noise Remover](https://noiseremover.site/)** — Free browser-local **speech noise reduction** with RNNoise, original/cleaned playback and WAV export; no signup or audio upload, up to 50 MB and five minutes per file.
 
 ---
 
